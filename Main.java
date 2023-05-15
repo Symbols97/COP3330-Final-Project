@@ -20,7 +20,7 @@ import java.util.regex.Pattern;
 //TODO add everyone's names to the header
 //**
 //  COP3330 Spring 2023 Final Project 
-//  Created by Ian Ragan, Sebastian Steele, and Jaden Jeudy
+//  Created by Ian Ragan & Sebastian Steele
 // */
 
 public class Main {
