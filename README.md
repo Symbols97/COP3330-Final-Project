@@ -1,2 +1,2 @@
-# finalproject
-Final Project for OOP 330
+# Final Project
+A Student "P.O.S" System
